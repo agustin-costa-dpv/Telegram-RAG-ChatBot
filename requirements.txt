@@ -1,0 +1,12 @@
+python-telegram-bot>=20.0
+sentence-transformers
+faiss-cpu
+PyPDF2
+langchain
+flask
+pypdf
+chromadb
+tiktoken
+
+
+Add requirements.txt
